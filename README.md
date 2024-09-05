@@ -1,4 +1,5 @@
 # Hi there 👋
+Most of my repositories on this Github account are outputs from school. Sorry if quality is bad. (Still learning)
 
 ## 💫 About Me:
 **4th yr Computer Engineering Student (Specialization: Data Science)**<br>
