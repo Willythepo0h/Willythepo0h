@@ -3,10 +3,10 @@ Most of my repositories on this Github account are outputs from school. Sorry if
 
 ## 💫 About Me:
 **4th yr Computer Engineering Student (Specialization: Data Science)**<br>
-I'm currently working on my Project Design/Major Capstone.<br>
-I'm currently learning Web and Software Development.<br>
-I play Volleyball(a lot).<br>
-I like anything pink, they're pleasing to my eyes.
+- I'm currently working on my Project Design/Major Capstone.<br>
+- I'm currently learning Web and Software Development.<br>
+- I play Volleyball(a lot).<br>
+- I like anything pink, they're pleasing to my eyes.
 
 
 ## 🌐 Socials:
