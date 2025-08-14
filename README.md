@@ -3,7 +3,7 @@ Most of my repositories on this Github account are outputs from school. Sorry if
 
 ## 💫 About Me:
 **Computer Engineering Graduate (Specialization: Data Science)**<br>
-- Finished my Project Design/Major Capstone. Check this repository [Major Capstone](https://github.com/Willythepo0h/Cocolisap-app)<br>
+- Finished my [Project Design/Major Capstone](https://github.com/Willythepo0h/Cocolisap-app).<br>
 - Currently learning Web and Software Development. Improving my Data Science related skills.<br>
 - I play Volleyball(a lot).<br>
 - I like anything pink, they're pleasing to my eyes.
